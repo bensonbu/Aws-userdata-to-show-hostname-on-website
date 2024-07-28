@@ -1,2 +1,2 @@
 # simplewebsite
-Simple website which shows hostname in the webpage
+Its AWS userdata to show server Hostname on simple website page.
